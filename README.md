@@ -1,1 +1,3 @@
 # Load-Forecasting-for-Smart-Meters
+
+Load forecasting for smart meter is a method of predicting the energy demand of customers using data collected from smart meters. In this case, the data was thoroughly cleaned in Excel, missing values and outliers were detected and analysed using plots. Principal Component Analysis (PCA) was used to extract the most relevant features for building a Convolutional Neural Network (CNN) model. The implementation of different models such as Auto Regressive Integrated Moving Average (ARIMA), CNN, Long Short-Term Memory (LSTM), Simple Moving Average (SMA), and Exponential Moving Average (EMA) were also done to forecast the load demand.
